@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: calculadora
+Bundle-SymbolicName: calculadora
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Export-Package: .,
+ aparencia,
+ calculadora,
+ calculadora.bin
